@@ -16,7 +16,7 @@ Driver for the ccs811 sensor for stm32.
 #define CCS811_I2C_HANDLER hi2c2
 ```
 
-##### Call the esp8266_init() function on startup
+##### Call the ccs811_init() function on startup
 ```c
 /* main.c */
 int main(void)
