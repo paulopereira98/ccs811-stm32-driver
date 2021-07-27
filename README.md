@@ -5,7 +5,7 @@ Driver for the ccs811 sensor for stm32.
 &nbsp;
 &nbsp;
 
-### [Open Documenttion]( http://paulopereira98.github.io/ccs811-stm32-driver)
+### [Open Documentation]( http://paulopereira98.github.io/ccs811-stm32-driver/ccs811_8h.html)
 &nbsp;
 ### How to use:
 
